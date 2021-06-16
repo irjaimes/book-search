@@ -4,7 +4,7 @@
 
 This book search engine application uses the MERN stack to allows users to search by a keyword or keywords and then save books to their library.
 
-The live application is served through [Heroku](https://www.heroku.com/) and is available [here]()
+The live application is served through [Heroku](https://www.heroku.com/) and is available [HERE](https://infinite-caverns-70429.herokuapp.com/)
 
 ### Table of Contents
 
@@ -16,8 +16,8 @@ The live application is served through [Heroku](https://www.heroku.com/) and is 
 
 ### Installation
 
-To install all dependencies type `npm i` into the terminal.
-The application uses the following dependencies:
+To install app type `npm i` into the terminal.
+It will use the following dependencies:
 
 - MongoDB
 - Express
@@ -25,14 +25,13 @@ The application uses the following dependencies:
 - Node
 - GraphQL
 - Bootstrap
-- CSS
 
 ### App Screen Shots
 
 **Home Page**
-![sc00](/public/images/sc01.png)
+![sc00](client/public/sc00.png)
 **Search Results**
-![sc01](/public/images/sc1.png)
+![sc01](client/public/sc01.png)
 
 ### License
 
